@@ -1,0 +1,4 @@
+-The user clicks the Screen to create a Scientist clone from the cloning chamber.
+- Scientists Default stats - 
+Per 1 Scientist - 1 Tub of Protein is Made every 30 seconds.
+

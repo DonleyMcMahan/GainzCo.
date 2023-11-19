@@ -1,0 +1,19 @@
+Now that we are making tubs of protein we then have to ship the protein to gym bros.
+*Default Start with 1 Pickup Truck, Can buy up to 3 Trucks to start*
+Pickup Truck - 500 Tubs/Min
+Deilvery Truck - 2,000 Tubs/Min
+Semi Truck - 5,000 Tubs/Min
+Double Semi Truck - 10,000 Tubs/Min
+Advanced Semi Truck - 25,000 Tubs/Min
+Electric Semi - 50,000 Tubs/Min
+
+Ok we are moving past vehicles, we need to take over the air space.
+*Required to unlock airport first*
+Small Cargo Plane - 150,000 Tubs/Min (The standard cargo plane for airspace delivery, it does what land vehicles can't)
+Medium Cargo Plane - 500,000 Tubs/Min (Somewhat large storage for big cargo deliveries)
+Large Cargo Plane - 1,000,000 Tubs/Min (Massive storage for extreme cargo deliveries)
+The GTC(Giga Tub Carrier) - 50,000,000 Tubs/Min + 10,000,000 Per Upgrade 
+*Up to 5 Upgrades, can be upgraded later but this is super late game* 
+(This abomination of creation can reach speeds of Mach 10 and has Quantum Storage Technology)
+The BHTC(Black Hole Tub Carrier) - 1,000,000,000 Tubs/Min
+(With the use of black hole technology, storage is near infinite)
